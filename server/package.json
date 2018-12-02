@@ -25,6 +25,7 @@
   "homepage": "https://github.com/TritiumMonoid/local-hack-day-tijuana-2018#readme",
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "mssql": "^4.3.0"
   },

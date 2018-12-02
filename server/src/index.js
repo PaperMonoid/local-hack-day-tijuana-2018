@@ -1,7 +1,9 @@
 import "@babel/polyfill";
 import express from "express";
+import cors from "cors";
 
 const app = express();
+app.use(cors());
 const port = 3000;
 
 app.get("/consultas", (req, res) => {
