@@ -1,0 +1,37 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Aplicación web para consultas ciudadanas.",
+  "scripts": {
+    "test": "jest",
+    "build": "./node_modules/.bin/babel src --out-dir dist --ignore 'node_modules/**' --copy-files",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TritiumMonoid/local-hack-day-tijuana-2018.git"
+  },
+  "keywords": [
+    "consulta",
+    "ciudadana",
+    "lhd",
+    "tijuana"
+  ],
+  "author": "TritiumMonoid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TritiumMonoid/local-hack-day-tijuana-2018/issues"
+  },
+  "homepage": "https://github.com/TritiumMonoid/local-hack-day-tijuana-2018#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "express": "^4.16.4",
+    "mssql": "^4.3.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/plugin-transform-async-to-generator": "^7.1.0",
+    "@babel/preset-env": "^7.1.6"
+  }
+}

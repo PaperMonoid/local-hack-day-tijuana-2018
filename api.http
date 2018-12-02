@@ -1,0 +1,2 @@
+# OBTENER CONSULTAS
+GET http://localhost:3000/consultas

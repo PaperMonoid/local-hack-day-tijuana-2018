@@ -1,0 +1,25 @@
+[
+  {
+    "titulo": "Tren Maya",
+    "imagen": "https://lopezobrador.org.mx/wp-content/uploads/2018/09/TREN-MAYA.png",
+    "descripcion": "El Tren Maya será el principal proyecto de infraestructura, desarrollo socioeconómico y turismo sostenible del gobierno de Andrés Manuel López Obrador. El proyecto consiste en un nuevo servicio de transporte férreo que interconecta las principales ciudades y zonas turísticas de la península de Yucatán.El proyecto promueve un esquema turístico en el que los visitantes recorren las comunidades de la región evitando la concentración turística en un solo punto. Así, se genera una derrama económica local, se crean oportunidades laborales y se distribuye la riqueza a lo largo de la península. Se basa en un modelo de desarrollo sostenible que impulsa el crecimiento económico sin depredar el ambiente; al contrario, procura medidas de mitigación, compensación y protección del entorno ―como la creación de corredores ecológicos en el margen de la Reserva de la Biósfera de Calakmul para contener la presión del crecimiento poblacional y la actividad humana. Así, la importancia del proyecto es doble porque plantea: primero, detonar la economía y mejorar la calidad de vida de los habitantes. Y, segundo, proteger el medio ambiente de los estragos que produce la invasión humana y las actividades derivadas de la precariedad económica, como la tala ilegal o el tráfico de especies.",
+    "objetivos": [
+      "Impulsar el desarrollo socioeconómico de la región y las comunidades locales.",
+      "Fomentar la inclusión social y la creación de empleo.",
+      "Promover y resguardar las culturas indígenas locales.",
+      "Proteger y rehabilitar las Áreas Naturales Protegidas en la Península.",
+      "Fortalecer la industria turística en México.",
+      "Apoyar el ordenamiento territorial de la Península."
+    ],
+    "preguntas": [
+      "Construir el tren Maya que conectará los estados de Chiapas, Tabasco, Campeche, Yucatán y Quintana Roo, lo que fermentará la conomía y el turismo.",
+      "Conectar por medio de un tren los océanos Pacífico y Atlántico para desarrollar el Itsmo de Tehuatepec, Oaxaca y reactivar la economia de la región.",
+      "Construir una refinería de Dos Bocas, Tabasco, para producir gasolina con el petroléo extraido por PEMEX,",
+      "Plantar árboles frutales y maderables en un millón de hectareas, creando 400 mil empleos permanentes,",
+      "Aumentar al doble la pensión a todos los adultos mayores de 68 años (desde los 65 años en regiones indigenas).",
+      "Otorgar becas y capacitación laboral a 2.6 millones de jóvenes que hoy no tienen oportunidades de estudiar ni de trabajar.",
+      "Becar a todos los estudiantes de las escuelas públicas de nivel medio susperior del país.",
+      "Pensionar a un millón de personas que viven con alguna discapacidad."
+    ]
+  }
+]
