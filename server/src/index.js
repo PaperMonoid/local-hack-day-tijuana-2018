@@ -4,7 +4,7 @@ import cors from "cors";
 
 const app = express();
 app.use(cors());
-const port = 3000;
+const port = process.env.PORT || 1337;
 
 app.get("/consultas", (req, res) => {
   res.setHeader("Content-Type", "application/json");
